@@ -1,0 +1,8 @@
+network-sniffer-ids/
+├── README.md
+├── .gitignore
+├── LICENSE
+├── requirements.txt
+├── main.py
+├── logs/
+│   └── packet_log.csv
